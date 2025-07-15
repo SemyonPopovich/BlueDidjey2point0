@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Projects\\BlueDidjey2point0\\",
+  "WorkspaceRootPath": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\users\\projects\\bluedidjey2point0\\bluedidjey2point0\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\allprogramsforcode\\projects\\bluedidjey2point0\\bluedidjey2point0\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|solutionrelative:bluedidjey2point0\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\users\\projects\\bluedidjey2point0\\bluedidjey2point0\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\allprogramsforcode\\projects\\bluedidjey2point0\\bluedidjey2point0\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|solutionrelative:bluedidjey2point0\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\users\\projects\\bluedidjey2point0\\bluedidjey2point0\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\allprogramsforcode\\projects\\bluedidjey2point0\\bluedidjey2point0\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|solutionrelative:bluedidjey2point0\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\users\\projects\\bluedidjey2point0\\bluedidjey2point0\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|c:\\allprogramsforcode\\projects\\bluedidjey2point0\\bluedidjey2point0\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D95A4C-BF84-42D3-AF32-74AAB32B7082}|BlueDidjey2point0\\BlueDidjey2point0.csproj|solutionrelative:bluedidjey2point0\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Buttons.cs",
-              "DocumentMoniker": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\Buttons.cs",
+              "DocumentMoniker": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\Buttons.cs",
               "RelativeDocumentMoniker": "BlueDidjey2point0\\Buttons.cs",
-              "ToolTip": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\Buttons.cs",
+              "ToolTip": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\Buttons.cs",
               "RelativeToolTip": "BlueDidjey2point0\\Buttons.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BotCommands.cs",
-              "DocumentMoniker": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotCommands.cs",
+              "DocumentMoniker": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotCommands.cs",
               "RelativeDocumentMoniker": "BlueDidjey2point0\\BotCommands.cs",
-              "ToolTip": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotCommands.cs",
-              "RelativeToolTip": "BlueDidjey2point0\\BotCommands.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAA3wH4AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotCommands.cs*",
+              "RelativeToolTip": "BlueDidjey2point0\\BotCommands.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T12:27:57.696Z",
               "EditorCaption": ""
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BotConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotConfiguration.cs",
+              "DocumentMoniker": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotConfiguration.cs",
               "RelativeDocumentMoniker": "BlueDidjey2point0\\BotConfiguration.cs",
-              "ToolTip": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotConfiguration.cs",
+              "ToolTip": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BotConfiguration.cs",
               "RelativeToolTip": "BlueDidjey2point0\\BotConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\GlobalUsings.cs",
+              "DocumentMoniker": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "BlueDidjey2point0\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\GlobalUsings.cs",
+              "ToolTip": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\GlobalUsings.cs",
               "RelativeToolTip": "BlueDidjey2point0\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

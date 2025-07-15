@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj": {}
+    "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj": {
+    "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj",
+        "projectUniqueName": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj",
         "projectName": "BlueDidjey2point0",
-        "projectPath": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj",
+        "projectPath": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\BlueDidjey2point0.csproj",
         "packagesPath": "C:\\Users\\Железный Ящик\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\obj\\",
+        "outputPath": "C:\\AllProgramsForCODE\\Projects\\BlueDidjey2point0\\BlueDidjey2point0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\visual\\NuGetPackages"
